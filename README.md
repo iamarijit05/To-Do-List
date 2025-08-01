@@ -1,19 +1,15 @@
 A simple and responsive To-Do List web application built using HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete — perfect for beginners to practice DOM manipulation and local storage.
 
-🚀 Features
+🚀 Features:
+
 ✅ Add new tasks
-
 ❌ Delete tasks
-
 ✔️ Mark tasks as completed
-
 💾 Save tasks in browser using Local Storage
-
 📱 Responsive design for mobile and desktop
 
 🛠️ Tech Stack
-HTML – Structure of the app
 
-CSS – Styling and layout
-
-JavaScript – Functionality and interactivity
+1. HTML – Structure of the app
+2. CSS – Styling and layout
+3. JavaScript – Functionality and interactivity
